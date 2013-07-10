@@ -1,0 +1,14 @@
+{
+  "name": "webgl-attribute",
+  "repo": "enricomarino/webgl-attribute",
+  "version": "0.1.0",
+  "description": "WebGL Attribute component",
+  "keywords": ["webgl", "attribute"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT"
+}
